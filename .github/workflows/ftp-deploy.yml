@@ -19,4 +19,4 @@ jobs:
         server: files.000webhost.com
         username: projetbtssn1
         password: Qeheh426
-        server-dir: /public_html/movies
+        server-dir: /public_html/movies/
